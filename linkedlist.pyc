@@ -1,0 +1,12 @@
+�
+M�v[c@s'ddlmZddd��YZdS(i����(tNodet
+LinkedListcBs8eZdd�Zd�Zd�Zd�Zd�ZRS(cCst|�|_dS(N(Rt	head_node(tselftvalue((s5/home/ccuser/workspace/soho-restaurants/linkedlist.pyt__init__scCs|jS(N(R(R((s5/home/ccuser/workspace/soho-restaurants/linkedlist.pyt
+get_head_nodescCs)t|�}|j|j�||_dS(N(Rt
+set_next_nodeR(Rt	new_valuetnew_node((s5/home/ccuser/workspace/soho-restaurants/linkedlist.pytinsert_beginning
+scCsCd}|j}x-|r>|t|j�d7}|j�}qW|S(Nts
+(RtstrRt
+get_next_node(Rtstring_listtcurrent_node((s5/home/ccuser/workspace/soho-restaurants/linkedlist.pytstringify_lists		cCsz|j}|j�tkr-|j�|_nIxF|ru|j�}|j�|krl|j�|_d}q0|}q0WdS(N(Rt	get_valuetnode_to_removeR
+t	next_nodetNone(Rtvalue_to_removeRR((s5/home/ccuser/workspace/soho-restaurants/linkedlist.pytremove_nodes			N(t__name__t
+__module__RRRR
+RR(((s5/home/ccuser/workspace/soho-restaurants/linkedlist.pyRs
+			N((tnodeRR(((s5/home/ccuser/workspace/soho-restaurants/linkedlist.pyt<module>s

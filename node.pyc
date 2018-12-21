@@ -1,0 +1,6 @@
+�
+��v[c@sddd��YZdS(tNodecBs/eZdd�Zd�Zd�Zd�ZRS(cCs||_||_dS(N(tvaluet	next_node(tselfRR((s//home/ccuser/workspace/soho-restaurants/node.pyt__init__s	cCs
+||_dS(N(R(RR((s//home/ccuser/workspace/soho-restaurants/node.pyt
+set_next_nodescCs|jS(N(R(R((s//home/ccuser/workspace/soho-restaurants/node.pyt
+get_next_node	scCs|jS(N(R(R((s//home/ccuser/workspace/soho-restaurants/node.pyt	get_valuesN(t__name__t
+__module__tNoneRRRR(((s//home/ccuser/workspace/soho-restaurants/node.pyRs		N((R(((s//home/ccuser/workspace/soho-restaurants/node.pyt<module>s
